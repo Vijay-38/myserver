@@ -1,0 +1,13 @@
+node_modules/
+.git/
+__pycache__/
+*.pyc
+.env
+dist/
+.idea/
+.vscode/
+backup/
+referance/
+*.pdf
+build_*.txt
+fix-chat.cjs
