@@ -28,5 +28,5 @@ jobs:
           context: ./backend
           push: true
           tags: |
-            viraj38/flask-backend:latest
-            viraj38/flask-backend:${{ steps.version.outputs.tag }}
+            viraj234/flask-backend:latest
+            viraj234/flask-backend:${{ steps.version.outputs.tag }}
